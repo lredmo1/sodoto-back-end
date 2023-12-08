@@ -1,0 +1,2 @@
+class LessonVideosController < ApplicationController
+end
